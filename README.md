@@ -15,7 +15,7 @@ Put the desired .pck file in your Lancer Tactics folder, in `modloader/mods`.
 **White Witch**: 
 - _Ferrofluid Lance_ and _Pinning Spire_ increase the enemy's melee threat range to a value equal to the distance between the user and the victim, which can lead to 1-threat weapons (like the Assault's tactical knife) being able to hit targets they usually shouldn't. This was preferable over not applying that increase, where melee enemies would end up utterly and completely incapacitated if they could not reach the user with their melee attacks.
 
-- _Camus Razor_ automatically retargets your attack, and you cannot choose where it will go.
+- _Camus Razor_ automatically retargets your attack, and you cannot choose where exactly it will go. This affects primarily Friendly AoE attacks. The alternative introduces weird jank involving cancelling friendly-fire attacks after the action was already spent.
 
 # Legal
 
