@@ -17,6 +17,7 @@ Put the desired .pck file in your Lancer Tactics folder, in `modloader/mods`.
 
 - _Camus Razor_ automatically retargets your attack, and you cannot choose where exactly it will go. This affects primarily Friendly AoE attacks. The alternative introduces weird jank involving cancelling friendly-fire attacks after the action was already spent.
 
+-_Ferrospike Barrier_ does not work nor have a model yet.
 # Legal
 
 These mods are not official Lancer products; they are third party works, and are not affiliated with Massif Press. They are published via the Lancer Third Party License.
