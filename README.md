@@ -15,7 +15,7 @@ Put the desired .pck file in your Lancer Tactics folder, in `modloader/mods`.
 **White Witch**: 
 - No icon, for now it reutilizes the Black Witch one (scaled to Size 2 by the game)
 
-- _Fluid Burst_ doesn't work on _Shredded_ allies
+- _Fluid Burst_ doesn't work on _Shredded_ allies (it's a Resistance effect in the code)
 
 - _Ferrofluid Lance_ and _Pinning Spire_ increase the enemy's melee threat range to a value equal to the distance between the user and the victim, which can lead to 1-threat weapons (like the Assault's tactical knife) being able to hit targets they usually shouldn't. This was preferable over not applying that increase, where melee enemies would end up utterly and completely incapacitated if they could not reach the user with their melee attacks.
 
