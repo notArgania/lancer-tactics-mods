@@ -1,4 +1,6 @@
-# notArgania's Lancer Tactics Mods
+# notArgania's Lancer Tactics Mod (Singular)
+
+I'm not updating this anymore. College beating the life out of me you know how it goes but i did a lotta
 
 Requires [GavstarB's Modloader](https://github.com/GavstarB/lancer-tactics-modloader)
 
@@ -8,7 +10,7 @@ Put the desired .pck file in your Lancer Tactics folder, in `modloader/mods`.
 
 # Mods
 
-**white-witch-0.4** (v 0.5.2) (Incomplete): Adds the White Witch license, including the frame and weapons.
+**white-witch-0.4** (v 0.6) (Incomplete): Adds the White Witch license, including the frame and weapons.
 
 # Known Issues/Incomplete Aspects
 
