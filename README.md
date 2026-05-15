@@ -1,6 +1,7 @@
 # notArgania's Lancer Tactics Mod (Singular)
 
-I'm not updating this anymore. College beating the life out of me, you know how it goes. # You have my full permission to edit and improve upon this mod so long as you credit me for the stuff I wrote. Thank you!
+I'm not updating this anymore. College beating the life out of me, you know how it goes. 
+# You have my full permission to edit and improve upon this mod so long as you credit me for the stuff I wrote. Thank you!
 
 Requires [GavstarB's Modloader](https://github.com/GavstarB/lancer-tactics-modloader)
 
